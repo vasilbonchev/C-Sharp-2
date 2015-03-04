@@ -1,0 +1,6 @@
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Exam prep C Sharp 2\bin\Debug\Exam prep C Sharp 2.exe.config
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Exam prep C Sharp 2\bin\Debug\Exam prep C Sharp 2.exe
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Exam prep C Sharp 2\bin\Debug\Exam prep C Sharp 2.pdb
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Exam prep C Sharp 2\obj\Debug\Exam prep C Sharp 2.csprojResolveAssemblyReference.cache
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Exam prep C Sharp 2\obj\Debug\Exam prep C Sharp 2.exe
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Exam prep C Sharp 2\obj\Debug\Exam prep C Sharp 2.pdb

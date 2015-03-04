@@ -1,0 +1,6 @@
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\TRES4Numbers\bin\Debug\TRES4Numbers.exe.config
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\TRES4Numbers\bin\Debug\TRES4Numbers.exe
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\TRES4Numbers\bin\Debug\TRES4Numbers.pdb
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\TRES4Numbers\obj\Debug\TRES4Numbers.csprojResolveAssemblyReference.cache
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\TRES4Numbers\obj\Debug\TRES4Numbers.exe
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\TRES4Numbers\obj\Debug\TRES4Numbers.pdb

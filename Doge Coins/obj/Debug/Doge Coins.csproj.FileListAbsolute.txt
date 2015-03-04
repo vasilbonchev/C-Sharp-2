@@ -1,0 +1,6 @@
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Doge Coins\bin\Debug\Doge Coins.exe.config
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Doge Coins\bin\Debug\Doge Coins.exe
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Doge Coins\bin\Debug\Doge Coins.pdb
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Doge Coins\obj\Debug\Doge Coins.csprojResolveAssemblyReference.cache
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Doge Coins\obj\Debug\Doge Coins.exe
+c:\users\vasil\documents\visual studio 2013\Projects\Exam prep C Sharp 2\Doge Coins\obj\Debug\Doge Coins.pdb
