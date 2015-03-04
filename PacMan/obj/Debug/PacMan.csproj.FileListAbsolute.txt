@@ -1,0 +1,2 @@
+c:\users\vasil\documents\visual studio 2013\Projects\PacMan\PacMan\bin\Debug\PacMan.exe.config
+c:\users\vasil\documents\visual studio 2013\Projects\PacMan\PacMan\obj\Debug\PacMan.csprojResolveAssemblyReference.cache
